@@ -1,6 +1,6 @@
 package com.lw.man_out_smeltery_render;
 
-import com.lw.man_out_smeltery_render.Tags;
+import com.lw.man_out_smelteryRender.Tags;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
